@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "C:\\Users\\blucas\\AppData\\Local\\Temp\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "C:\\Users\\blucas\\AppData\\Local\\Temp\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+        "spec": "C:\\Users\\blucas\\AppData\\Local\\Temp\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+        "type": "local"
+      },
+      "C:\\Users\\blucas\\AppData\\Local\\Temp\\apm-install-dir-1171021-4364-1uvlv7g.ednv2yy14i"
+    ]
+  ],
+  "_from": "..\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+  "_id": "fancy-bracket-matcher@2.1.0",
+  "_inCache": true,
+  "_location": "/fancy-bracket-matcher",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "C:\\Users\\blucas\\AppData\\Local\\Temp\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "C:\\Users\\blucas\\AppData\\Local\\Temp\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+    "spec": "C:\\Users\\blucas\\AppData\\Local\\Temp\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:..\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+  "_shasum": "a06f49ef05f79a8aa7fbb3676c37d0be1367bd9d",
+  "_shrinkwrap": null,
+  "_spec": "C:\\Users\\blucas\\AppData\\Local\\Temp\\d-1171021-4364-10x4yq4.0ihq8bbj4i\\package.tgz",
+  "_where": "C:\\Users\\blucas\\AppData\\Local\\Temp\\apm-install-dir-1171021-4364-1uvlv7g.ednv2yy14i",
+  "bugs": {
+    "url": "https://github.com/evpok/fancy-bracket-matcher/issues"
+  },
+  "dependencies": {},
+  "description": "Provides an obnoxiously fancy animated bracket matcher",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">1.13.0"
+  },
+  "homepage": "https://github.com/evpok/fancy-bracket-matcher#readme",
+  "license": "WTFPL",
+  "name": "fancy-bracket-matcher",
+  "optionalDependencies": {},
+  "readme": "Fancy bracket Matcher Atom Package\n==================================\n\nProvides an obnoxiously fancy animated bracket matcher. Inspired by https://discuss.atom.io/t/where-to-set-the-matched-brace-color.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evpok/fancy-bracket-matcher.git"
+  },
+  "version": "2.1.0"
+}
